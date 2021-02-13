@@ -12,6 +12,7 @@ You can also convert the program to exe and use it. <br/>
 *//Enes Duran//*
 
 [Türkçe]
+
 **Keylogger'ı kullanmak için** <br/>
 send_mail.py dosyasını herhangi bir yolla açın ve düzenleyin. <br/>
 6,7,8. satırdaki Your mail, password ve receiver mail yerlerini doldurun. <br/>
